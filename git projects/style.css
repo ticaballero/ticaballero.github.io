@@ -9,10 +9,10 @@
   /* Style the header */
   header {
     background-image: url('https://cdn.glitch.global/de738c4d-5c4b-4db6-a6be-0fdb7f585a63/Screen%20Shot%202022-06-29%20at%208.11.32%20AM.png?v=1656515656548');
-    padding: 30px;
+    padding: 50px;
     text-align: center;
     font-size: 35px;
-    color: white;
+    color: black;
   }
   
   /* Create two columns/boxes that floats next to each other */
