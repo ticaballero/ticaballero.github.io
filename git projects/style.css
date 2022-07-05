@@ -7,24 +7,43 @@
     border-radius: 60%;
   }
     
+  h1{
+    font-family: 'Playfair Display', serif; 
+  }
   body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #F0F0F0;
   }
-  
+
+  .button {
+    background-color: lightgray;
+    border: 5px;
+    color: black;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
   header {
-    background-color: #a29c9b;
+    background-image: url("https://img.pikbest.com/backgrounds/20200612/aesthetic-ancient-style-traditional-ink-painting-style-banner_2753521.jpg!c1024wm1024");
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 80px;
     text-align: center;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Arima', cursive;
     font-size: 35px;
-    color: white;
+    color: black;
   }
   
   nav {
     float: left;
     width: 30%;
     height: 300px; 
-    background: #FFFFFF;
+    background: #F0F0F0;
     padding: 20px;
   }
   
@@ -38,7 +57,7 @@
     float: left;
     padding: 20px;
     width: 70%;
-    background-color: #FFFFFF;
+    background-color: #F0F0F0;
     height: 300px; 
   }
   
